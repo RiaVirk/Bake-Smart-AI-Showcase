@@ -174,7 +174,7 @@ bake-smart-ai/
 ### Installation
 
 ```bash
-git clone https://github.com/RiaVirk/bake-smart-ai.git
+git clone https://github.com/RiaVirk/*****.git
 cd bake-smart-ai
 npm install
 ```
