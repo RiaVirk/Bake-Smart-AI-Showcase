@@ -22,7 +22,7 @@
 
 > 📸 **Dashboard Preview**
 >
-> ![BakeSmart AI Dashboard Preview](https://github.com/user-attachments/assets/7097fcbe-99e9-45ed-ac79-60c7185a3f58)
+> https://github.com/user-attachments/assets/7097fcbe-99e9-45ed-ac79-60c7185a3f58
 
 ---
 
