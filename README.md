@@ -22,7 +22,7 @@
 
 > 📸 **Dashboard Preview**
 >
-> ![Bake Smart AI Dashboard Preview](https://imgur.com/a/CUlWTHG)
+> ![BakeSmart AI Dashboard Preview](https://i.imgur.com/YOUR_DIRECT_GIF_LINK_HERE.gif)
 
 ---
 
